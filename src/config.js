@@ -14,5 +14,8 @@ export const dateHandler = (d) => {
 
     return `${day} ${date} ${month} ${year}`;
   };
+<<<<<<< HEAD
   //39703eb80be8c87fd9b129d8
   // https://v6.exchangerate-api.com/v6/39703eb80be8c87fd9b129d8/latest/USD
+=======
+>>>>>>> 76ec68bccb05325fa1929cda38cd8831a8e9044f
