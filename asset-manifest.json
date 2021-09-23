@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/weatherfinder/static/css/main.e476cdf8.chunk.css",
-    "main.js": "/weatherfinder/static/js/main.7ee8861f.chunk.js",
-    "main.js.map": "/weatherfinder/static/js/main.7ee8861f.chunk.js.map",
+    "main.css": "/weatherfinder/static/css/main.2e6f704f.chunk.css",
+    "main.js": "/weatherfinder/static/js/main.828ddfba.chunk.js",
+    "main.js.map": "/weatherfinder/static/js/main.828ddfba.chunk.js.map",
     "runtime-main.js": "/weatherfinder/static/js/runtime-main.a9ae6265.js",
     "runtime-main.js.map": "/weatherfinder/static/js/runtime-main.a9ae6265.js.map",
     "static/js/2.b8691037.chunk.js": "/weatherfinder/static/js/2.b8691037.chunk.js",
     "static/js/2.b8691037.chunk.js.map": "/weatherfinder/static/js/2.b8691037.chunk.js.map",
     "index.html": "/weatherfinder/index.html",
-    "static/css/main.e476cdf8.chunk.css.map": "/weatherfinder/static/css/main.e476cdf8.chunk.css.map",
+    "static/css/main.2e6f704f.chunk.css.map": "/weatherfinder/static/css/main.2e6f704f.chunk.css.map",
     "static/js/2.b8691037.chunk.js.LICENSE.txt": "/weatherfinder/static/js/2.b8691037.chunk.js.LICENSE.txt",
     "static/media/index.css": "/weatherfinder/static/media/hot.89ae16dd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a9ae6265.js",
     "static/js/2.b8691037.chunk.js",
-    "static/css/main.e476cdf8.chunk.css",
-    "static/js/main.7ee8861f.chunk.js"
+    "static/css/main.2e6f704f.chunk.css",
+    "static/js/main.828ddfba.chunk.js"
   ]
 }
