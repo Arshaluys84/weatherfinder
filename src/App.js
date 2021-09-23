@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import { base, key, dateHandler } from "./config";
 
+
 function App() {
   const [city, setCity] = useState("");
   const [weather, setWeather] = useState({});
@@ -60,8 +61,11 @@ function App() {
                   <div className="date">{dateHandler(new Date())}</div>
                 </div>
                 <div className="weather-box">
-                  <div className="temp">{Math.round(weather.main.temp)}&#8451;</div>
-                  <div className="weather">{weather.weather[0].main}</div>
+                  <div className="temp">{Math.round(weather.main.temp)}&#8451;
+                  <img src={`http://openweathermap.org/img/w/${weather.weather[0].icon}.png`} alt="icon" /></div>
+                  <div className="weather">{weather.weather[0].main}
+                  </div>
+                 
                 </div>
               </div>
             ) : (
@@ -69,7 +73,9 @@ function App() {
             )}
           </div>
         )}
+    
       </main>
+
     </div>
   );
 }
